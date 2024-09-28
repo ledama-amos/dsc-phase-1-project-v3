@@ -234,9 +234,7 @@ Idiomatic `pandas` code has variable names that are meaningful words or abbrevia
 
 We also recommend that you rename all DataFrame columns so that their meanings are more understandable, although it is fine to have acronyms. For example, `"col1"` would not be an idiomatic name, but `"USD"` could be.
 
-Below are the definitions of each rubric level for this objective. This information is also summarized in the rubric, which is attached to the project submission assignment.
-
-#### Exceeds Objective
+Below are the definitions of each rubric level for this objective. This i
 Uses `pandas` to prepare data and answer business questions in an idiomatic, performant way
 
 #### Meets Objective (Passing Bar)
